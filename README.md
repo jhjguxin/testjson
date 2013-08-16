@@ -6,6 +6,7 @@ test gem [json](http://rubygems.org/gems/json) generate with 'ascii_only' option
 ### test result
 
 ```ruby
+$ rake console
 params = {
            act: "push类型",
            note: "提示文字",
